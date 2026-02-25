@@ -1,0 +1,3 @@
+depois de ativar no xamp = mysql
+
+$ npm install --save @nestjs/typeorm typeorm mysql2
